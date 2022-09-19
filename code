@@ -1,4 +1,5 @@
 # AMS325_hw2
+
 # pi_est
 
     function pe = pi_est(Ntotal)
